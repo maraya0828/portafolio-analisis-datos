@@ -9,7 +9,7 @@ Python (pandas, matplotlib, seaborn) · SQL (SQLite) · Power BI · Tableau · E
 **Name:** Exploratory Data Analysis (EDA) Project 1  
 **Description:** Cleaning and exploration of real data from a UK-based online store: sales by country, best-selling products, seasonality, and most valuable customers  
 **Tools:** Python, pandas, matplotlib, seaborn  
-**Link:**
+**Link:** https://github.com/maraya0828/portafolio-analisis-datos/tree/main/proyecto1EDA 
 
 **Name:** EDA - SQL Queries Project 2 *COMING SOON*  
 **Description:** Queries on the same dataset, including window functions and CTEs, to answer business questions about sales, customers, and trends  
